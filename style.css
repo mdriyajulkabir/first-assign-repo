@@ -1,0 +1,121 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.top{
+    display: flex;
+    margin-bottom: 8%;
+}
+.text-heading{
+    font-size: 45px;
+}
+.color-orenge{
+    color: orange;
+}
+.half-width{
+
+    width: 50%;
+    padding-left: 4%;
+    padding-top: 7%;
+}
+.half-width img{
+    width:78%;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient( #ffa500,orangered );
+    padding: 8px 35px;
+    border-radius: 19px;
+    color: white;
+    font-weight: 400;
+}
+.about-me{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+}
+#about-me{
+
+    width: 32%;
+    padding-left: 30px;
+}
+.mine{
+
+    color: slategray;
+    font-size: 40px;
+}
+.link-button-two{
+    text-decoration: none;
+    background-image:linear-gradient( #ffa500,orangered );
+    padding: 20px 45px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 400;
+}
+.my-recipies{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.recipies-item-display{
+    display: flex;
+}
+.food-item-one{
+    box-shadow: 10px 10px 40px gray;
+
+    margin-left: 1%;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.food-item-two{
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 3%;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.food-item-three{
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 3%;
+    margin-right: 1%;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.recipies-item img{
+    height: 225px;
+    width: 375px;
+    margin-top: 5%;
+}
+.taken-likes{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.taken-likes-box{
+    box-shadow: 10px 10px 10px 5px gray;
+    display: flex;
+    border-radius: 10px;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 30px;
+}
+#youtube-likes{
+    margin-left: 20%;   
+}
+#insta-likes{
+    margin-left: 20%;
+    
+}
+#dribble-likes{
+    margin-left: 20%;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+footer h1{
+    color: #5B5B5B;
+}
+footer h5{
+    color: white;
+}
+#food{
+    color: orange;
+}
